@@ -1,6 +1,18 @@
-# NexusVote DApp
+<p align="center">
+  <img src="/public/readme-cover.svg" alt="Nexus Governance cover" width="800" />
+</p>
 
-NexusVote is a decentralized governance dApp that lets communities create proposals and cast verifiable on-chain votes.
+<p align="center">
+  <img src="/public/nexus-governance-logo.svg" alt="Nexus Governance logo" width="80" />
+</p>
+
+<h1 align="center">NexusVote DApp</h1>
+
+<p align="center">
+  Decentralized governance dApp for secure, transparent blockchain voting with a neon, sci-fi dashboard.
+</p>
+
+---
 
 It is designed to be:
 
